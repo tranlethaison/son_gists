@@ -1,0 +1,19 @@
+# JupyterLab keyboard shortcuts
+{
+    "shortcuts": [
+        {
+            "command": "notebook:run-all-above",
+            "keys": [
+                "Ctrl F8"
+            ],
+            "selector": "[data-jp-code-runner]",
+        },
+        {
+            "command": "runmenu:run-all",
+            "keys": [
+                "Ctrl F9"
+            ],
+            "selector": "[data-jp-code-runner]",
+        },
+    ]
+}
