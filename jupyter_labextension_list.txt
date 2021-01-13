@@ -1,0 +1,10 @@
+@axlair/jupyterlab_vim v0.12.4
+@jupyter-widgets/jupyterlab-manager v2.0.0
+@jupyterlab/debugger v0.3.7
+@jupyterlab/toc v4.0.0
+@krassowski/jupyterlab-lsp v2.1.1
+@lckr/jupyterlab_variableinspector v0.5.1
+jupyter-matplotlib v0.7.4
+jupyterlab-plotly v4.14.1
+nbdime-jupyterlab v2.0.1
+qgrid2 v1.1.3
