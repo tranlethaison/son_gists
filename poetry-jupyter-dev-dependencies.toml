@@ -1,0 +1,14 @@
+# Poetry dev-dependencies for Jupyter Lab/Notebook
+[tool.poetry.dev-dependencies]
+jupyterlab = "^3.0.7"
+jupyter = "^1.0.0"
+python-language-server = {extras = ["pyls"], version = "^0.36.2"}
+jupyterlab-lsp = "^3.3.0"
+ptvsd = "^4.3.2"
+pylint = "^2.6.0"
+jupyter-contrib-nbextensions = "^0.5.1"
+jupyterthemes = "^0.20.0"
+jupyterlab-code-formatter = "^1.4.4"
+black = "^20.8b1"
+isort = "^5.7.0"
+lckr-jupyterlab-variableinspector = "^3.0.6"
